@@ -114,4 +114,4 @@ increase_ave2 = [mean((x for x in xs if x is not None))
 # df = pd.DataFrame(list(zip(decrease_ave1, decrease_ave2)),
 #                   columns=['E /V', 'I /mA'])
 """"""
-# df.to_csv('eleanor.csv')
+
